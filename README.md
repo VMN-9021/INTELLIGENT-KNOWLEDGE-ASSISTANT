@@ -34,6 +34,23 @@ The application also includes input and output guardrails to prevent sensitive i
 - PyPDF
 - Python-dotenv
 
+## Project Structure
+
+```text
+AI-Student-Assistant/
+│
+├── documents/
+│   └── students.pdf
+│
+├── templates/
+│
+├── app.py
+├── database.py
+├── mcp_server.py
+├── requirements.txt
+├── README.md
+└── .env.example
+
 ## RAG Workflow
 
 ```text
