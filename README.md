@@ -36,7 +36,7 @@ The application also includes input and output guardrails to prevent sensitive i
 
 ## Project Structure
 
-```text
+
 AI-Student-Assistant/
 │
 ├── documents/
@@ -53,7 +53,7 @@ AI-Student-Assistant/
 
 ## RAG Workflow
 
-```text
+
 PDF Document
      ↓
 PDF Loading
